@@ -1,5 +1,5 @@
 
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsM...)](https://rishavchanda.io)
+![logo](https://github.com/vis243/vis243/blob/main/github-header-image%20(1).png)
 
 <h1 align="center">Hi 👋, I'm Vishnu V Bharawaj</h1>
 <h3 align="center">A passionate coder and developer from India</h3>
